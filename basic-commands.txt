@@ -4,6 +4,7 @@ mkdir -> cria um diretório
 rm -> deleta arquivo
 cd -> navega entre diretórios
 date -> exibe mostra data atual
+touch -> cria arquivo
 
 Git Commands
 
