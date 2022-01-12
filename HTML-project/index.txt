@@ -1,13 +1,14 @@
 -------- HTML Basic tags -------
 <!DOCTYPE HTML>
 <html>
-	<meta charset="UTF-8">
-	<title></title>
-	<link src="" type=""/>
 	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link src="" type=""/>
+	
 	
 	</head>
-
+<body>
 	<div>
               <a href="#"></>
 	</div>
@@ -22,6 +23,6 @@
 	<aside>
 		<main></main>
 	</aside>
-
+</body>
 
 </html> 
