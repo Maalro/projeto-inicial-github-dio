@@ -1,0 +1,22 @@
+ls -> lista diretórios
+pwd -> exibe diretório atual
+mkdir -> cria um diretório
+rm -> deleta arquivo
+cd -> navega entre diretórios
+date -> exibe mostra data atual
+
+Git Commands
+
+$ git init -> inicializa o git
+
+--Clona o repositório do git para local machine
+$ git clone https://github.com/Maalro/desafio-github-dio.git
+
+-- Atualiza todos arquivos e novas pastas para o repositório local do git
+$ git add .
+
+-- Atualiza todas as modificações novas pastas e novos arquivos para repositório do git
+$ git commit -m "Atualiza repositório"
+
+-- Envia arquivos remotamente para o repositorio do git
+$ git push origin main
