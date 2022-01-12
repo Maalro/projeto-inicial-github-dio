@@ -1,4 +1,4 @@
--------- HTML Basic tags -------
+-------- HTML Basic tags -------------
 <!DOCTYPE HTML>
 <html>
 	<head>
