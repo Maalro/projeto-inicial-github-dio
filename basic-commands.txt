@@ -6,7 +6,7 @@ cd -> navega entre diretórios
 date -> exibe mostra data atual
 touch -> cria arquivo
 
-Git Commands
+Git Commands  ...
 
 $ git init -> inicializa o git
 
