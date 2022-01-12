@@ -1,0 +1,27 @@
+-------- HTML Basic tags -------
+<!DOCTYPE HTML>
+<html>
+	<meta charset="UTF-8">
+	<title></title>
+	<link src="" type=""/>
+	<head>
+	
+	</head>
+
+	<div>
+              <a href="#"></>
+	</div>
+
+
+	<header>
+		<h1>
+		    <p></p>
+		</h1>
+	</header>
+
+	<aside>
+		<main></main>
+	</aside>
+
+
+</html> 
